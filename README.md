@@ -2,8 +2,6 @@
 
 English · [中文](./README.zh-CN.md)
 
-An AI-generated page is running in the browser. I want to keep shaping it in a design tool. That gap led me to build a web-to-Figma workflow—and to keep asking what happens around the screen, as well as on it.
-
 I'm a product designer exploring ideas through working prototypes, small products, and reusable tools. I use AI coding agents to make ideas tangible, examine the decisions inside them, and find what needs another iteration.
 
 ## Questions behind the work
